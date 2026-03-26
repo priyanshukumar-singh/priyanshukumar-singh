@@ -26,5 +26,5 @@ I am eager to collaborate, learn, and make an impact. Let’s connect!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanshukumar-singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+https://github.com/HrshNk-56/Gen-AI-H2S
 
