@@ -1,8 +1,15 @@
 # 💫 About Me:
-     I'm a undergrad student<br><br>• 
-     🤝 I'm looking for internship<br>• 
-     🌱 I'm currently learning , Agentic AI & building autonomous systems<br>• 
-     💬 Ask me about Full-stack development, AI integrations,data analytics<br>
+🚀 Undergraduate Student | Aspiring Data Analyst & Web Developer
+
+I am an enthusiastic undergraduate student with a strong interest in data analytics and web development. I enjoy working with data to uncover meaningful insights and building responsive, user-friendly web applications.
+
+With hands-on experience in tools and technologies related to data analysis and full-stack development, I am continuously learning and improving my skills to stay updated with industry trends.
+
+I am currently seeking internship opportunities where I can apply my knowledge, gain practical experience, and contribute to real-world projects while growing as a professional.
+
+💡 Skills: Data Analysis | Python | SQL | Web Development | Problem Solving
+
+I am eager to collaborate, learn, and make an impact. Let’s connect!
 
 
 ## 🌐 Socials:
