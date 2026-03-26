@@ -1,5 +1,8 @@
 # 💫 About Me:
-     I'm a undergrad student<br><br>• 🤝 I'm looking for internship<br>• 🌱 I'm currently learning , Agentic AI & building autonomous systems<br>• 💬 Ask me about Full-stack development, AI integrations,data analytics<br>
+     I'm a undergrad student<br><br>• 
+     🤝 I'm looking for internship<br>• 
+     🌱 I'm currently learning , Agentic AI & building autonomous systems<br>• 
+     💬 Ask me about Full-stack development, AI integrations,data analytics<br>
 
 
 ## 🌐 Socials:
@@ -15,7 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=priyanshukumar-singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
